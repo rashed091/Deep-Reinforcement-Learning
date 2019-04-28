@@ -11,6 +11,8 @@ scipy = "*"
 pymc3 = "*"
 jupyter = "*"
 matplotlib = "*"
+gym = "*"
+pyro-ppl = "*"
 
 [requires]
 python_version = "3.7"
